@@ -1,5 +1,5 @@
 {
-  "name": "hostelbackend",
+  "name": "hostel-backend",
   "version": "1.0.0",
   "description": "A backend application for hostel",
   "main": "index.js",
@@ -15,7 +15,7 @@
   "keywords": [
     "hostel",
     "application",
-    "boking",
+    "booking",
     "students",
     "project"
   ],
